@@ -31,18 +31,14 @@ The map renders districts with programme coverage on an orange-to-red intensity 
 > The participation data is from a programme evaluation study and is not publicly available. See [`data/data_sources.md`](data/data_sources.md) for full details.
 
 ---
-
 ## Methods
-
 - Data loading and preprocessing with `pandas` and `geopandas`
 - District name standardisation and mismatch checking across datasets (including handling Maharashtra's 2023 district renaming)
 - Left merge of geospatial boundary data with participation data
 - Custom colour scale with sentinel value approach for missing districts (grey fill)
 - Interactive choropleth built with `plotly.express`
 - Export as standalone HTML (offline-compatible) and static PNG
-
 ---
-
 ## Repository structure
 
 ```
@@ -54,9 +50,7 @@ Maharashtra-Interactive-Heatmap/
 │   └── data_sources.md         # Data provenance and access notes
 └── README.md
 ```
-
 ---
-
 ## How to run
 
 1. Clone this repository
@@ -66,11 +60,8 @@ Maharashtra-Interactive-Heatmap/
 5. Run all cells in order
 
 **To view the map without running any code:** download `maharashtra_heatmap.html` and open it in any browser.
-
 ---
-
 ## About
 
 Developed by **Amruta Gaikwad** as part of programme evaluation and data reporting work at iCALL, TISS, Mumbai.  
-The broader DMER × iCALL programme evaluation — including pre-post analyses of mental health literacy across 3,000+ students — is described in a manuscript currently under review.
-
+The broader DMER × iCALL programme evaluation, including pre-post test analyses of mental health sensitisation sessions across 3,000+ students, is described in a manuscript currently in preparation.
