@@ -7,14 +7,14 @@ An interactive choropleth map visualising district-level medical student partici
 
 ## Research context
 
-This visualisation was developed to support the **DMER Maharashtra × iCALL, TISS Mental Health Sensitisation Programme** — a state-level initiative to improve mental health literacy and reduce stigma among medical students enrolled in 24 government medical colleges across Maharashtra (2023–2025).
+This visualisation was developed to support the **DMER Maharashtra × iCALL, TISS Mental Health Sensitisation Programme** — a state-level initiative to improve mental health literacy, build sensitisation and reduce stigma among medical students and faculty enrolled in 24 government medical colleges across Maharashtra (2025).
 
 Understanding the geographic distribution of participation matters for two reasons:
 
-1. **Programme monitoring** — identifying districts with lower reach helps coordinators target follow-up outreach and allocate resources more effectively
+1. **Programme monitoring** — identifying districts with lower reach helps mental health programmers target programmes and  outreach to allocate resources more effectively
 2. **Policy communication** — presenting district-level coverage in an accessible visual format for state-level stakeholders, including the Directorate of Medical Education and Research (DMER)
 
-The map renders districts with programme coverage on an orange-to-red intensity scale (higher participation = deeper red) and districts with no government medical college in the sample in grey, clearly distinguishing programme reach from geographic gaps.
+The map renders districts with programme coverage on an orange-to-red intensity scale (higher participation = deeper red) and districts with no reach to any government medical college in the sample in grey, clearly distinguishing programme reach from geographic gaps.
 
 ---
 
@@ -22,9 +22,9 @@ The map renders districts with programme coverage on an orange-to-red intensity 
 
 | Detail | Description |
 |---|---|
-| **Source** | Programme administrative records — DMER Maharashtra × iCALL, TISS (2023–2025) |
+| **Source** | Programme administrative records — DMER Maharashtra × iCALL, TISS (2025) |
 | **Unit of analysis** | District |
-| **Variable visualised** | Number of medical students who participated in mental health sensitisation sessions |
+| **Variable visualised** | Number of medical students who were reachable and participated in mental health sensitisation sessions from different medical colleges across the state|
 | **Coverage** | 24 government medical colleges across Maharashtra |
 | **Geographic boundaries** | Maharashtra district-level GeoJSON (all 36 districts) |
 
