@@ -11,7 +11,7 @@ This visualisation was developed to support the **DMER Maharashtra × iCALL, TIS
 
 Understanding the geographic distribution of participation matters for two reasons:
 
-1. **Programme monitoring** — identifying districts with lower reach helps mental health programmers target programmes and  outreach to allocate resources more effectively
+1. **Programme monitoring** — identifying districts with lower reach helps mental health programmers target  outreach to allocate resources more effectively
 2. **Policy communication** — presenting district-level coverage in an accessible visual format for state-level stakeholders, including the Directorate of Medical Education and Research (DMER)
 
 The map renders districts with programme coverage on an orange-to-red intensity scale (higher participation = deeper red) and districts with no reach to any government medical college in the sample in grey, clearly distinguishing programme reach from geographic gaps.
